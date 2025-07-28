@@ -1,4 +1,4 @@
-# Legendary garmin
+# Legendary Garmin
 
 Trigger your clip capture with legendary Garmin catchphrase 
 
